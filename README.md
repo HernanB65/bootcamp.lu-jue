@@ -48,6 +48,14 @@ git status
  git add <nombre-archivo>
  git add index.html
  git add README.md css/estilos.css
- git add .  (agrego todos los archivos U o M)
- 
+ git add .  (agrego todos los archivos U o M) -->
+
+ ## La historia de commits (La caja de fotos)
+
+ <!--sh
+ git log # La historia de commit detallada
+ git log --oneline # Historia resumida
+  
+ Nota: si la consola queda bloqueada y no puedo salir del listado
+ tengo que apretar la tecla q (quit).
   -->
