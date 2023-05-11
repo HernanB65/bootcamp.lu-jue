@@ -59,3 +59,9 @@ git status
  Nota: si la consola queda bloqueada y no puedo salir del listado
  tengo que apretar la tecla q (quit).
   -->
+
+  ## Si quiero ver los cambios que tengo entre el WD y LR
+
+  <!--sh 
+  git diff
+   -->
