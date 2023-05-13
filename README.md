@@ -72,3 +72,30 @@ git status
 Este archivo me sirve para ignorar carpetas o archivos que no quiero que formen parte del repositorio. Normalmente va sobre la raiz del proyecto.
 
 Necesito crear el archivo **.gitignore**
+
+<!--sh 
+touch .gitignore
+ -->
+
+ ## Ayuda de GIT
+
+ <!--sh
+ git restore --help
+ git add --help
+ git commit --help 
+  -->
+
+  ## AGrego a mi repo local la url del repo remoto
+
+  <!-- sh
+  git remote add origin  git@github.com/HernanB65/bootcamp.lu-jue.git
+   -->
+
+   ## Visualizar si se agregó o qué url tengo agregada
+
+   <!-- sh
+   git remote -v
+    -->
+
+  
+
