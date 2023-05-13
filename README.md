@@ -65,3 +65,10 @@ git status
   <!--sh 
   git diff
    -->
+
+## Clase 16
+
+## .gitignore
+Este archivo me sirve para ignorar carpetas o archivos que no quiero que formen parte del repositorio. Normalmente va sobre la raiz del proyecto.
+
+Necesito crear el archivo **.gitignore**
